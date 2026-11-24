@@ -1,3 +1,4 @@
+// Entry: one line about the dumbest thing my own agent did today.
 // The Dumbest Thing Your Agent Did Today
 // make.fun entry: one line, at most 200 characters, about the dumbest
 // thing my own agent did today. This program writes that line to
